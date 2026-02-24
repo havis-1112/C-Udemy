@@ -1,0 +1,91 @@
+
+1.system.console class
+2.variables
+3.primitive types
+4.operators
+5.loops and conditional statements
+
+
+system.console class
+--------------------
+
+console.write - print
+console.writeline - print next line
+console.readkey - wait for user to press key(return char + asci)
+console.clear - clear console
+console.readline - read input from user(string)
+console.read - read input from user(char)
+
+
+variables
+---------
+stored in stack
+
+
+classification of datatypes
+---------------------------
+primitive type - store single value
+unsigned - (only positive)
+
+byte 
+sbyte  ---- 1byte
+
+short
+ushort ---- 2byte
+
+int 
+uint   ---- 4byte
+
+long
+ulong  ---- 8byte
+
+float  ---- 4byte (.7)
+double ---- 8byte (.15)
+decimal ---16byte (.29)
+
+char ---- 1byte
+
+bool ---- 1byte
+
+
+operators
+---------
+
+arithmetic  →  + - * / %
+assignment  →  = += -= ....
+comparision →  == < > <= >=
+logical     → && || !
+increment/decrement →  ++,--
+ternary→ ?:
+
+
+operator precedence
+-------------------
+
+()  .  []  ?.
+++  --
++  -  !  ~  (type)
+*  /  %
++  -
+<<  >>
+<  >  <=  >=
+==  !=
+&
+^
+|
+&&
+||
+??
+?:
+=  +=  -=  *=  /=  %=
+
+
+loops and conditional statements
+--------------------------------
+
+conditional control - if,else if,else,nestedif
+looping control - for,while,do-while
+jumping control - goto,continue,break
+
+start:
+goto start

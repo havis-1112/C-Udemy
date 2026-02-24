@@ -1,0 +1,15 @@
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\CollectionOfOjects\bin\Debug\net8.0\CollectionOfOjects.deps.json
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\CollectionOfOjects\bin\Debug\net8.0\CollectionOfOjects.dll
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\CollectionOfOjects\bin\Debug\net8.0\CollectionOfOjects.pdb
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\CollectionOfOjects\bin\Debug\net8.0\ClassLibrary.dll
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\CollectionOfOjects\bin\Debug\net8.0\ClassLibrary.pdb
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\CollectionOfOjects\obj\Debug\net8.0\CollectionOfOjects.csproj.AssemblyReference.cache
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\CollectionOfOjects\obj\Debug\net8.0\CollectionOfOjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\CollectionOfOjects\obj\Debug\net8.0\CollectionOfOjects.AssemblyInfoInputs.cache
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\CollectionOfOjects\obj\Debug\net8.0\CollectionOfOjects.AssemblyInfo.cs
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\CollectionOfOjects\obj\Debug\net8.0\CollectionOfOjects.csproj.CoreCompileInputs.cache
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\CollectionOfOjects\obj\Debug\net8.0\Collecti.BE6C3F44.Up2Date
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\CollectionOfOjects\obj\Debug\net8.0\CollectionOfOjects.dll
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\CollectionOfOjects\obj\Debug\net8.0\refint\CollectionOfOjects.dll
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\CollectionOfOjects\obj\Debug\net8.0\CollectionOfOjects.pdb
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\CollectionOfOjects\obj\Debug\net8.0\ref\CollectionOfOjects.dll

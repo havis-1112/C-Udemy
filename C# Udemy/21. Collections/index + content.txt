@@ -1,0 +1,31 @@
+
+1.  collections
+2.  list
+3.  add,addrange
+4.  insert.insertrange
+5.  remove,removeat,removerange,removeall,clear
+6.  indexof,binarysearch,contains
+7.  sort,reverse
+8.  toarray,foreach
+9.  exists,find,findindex,findlast,findlastindex,findall
+10. convertall
+11. dictionary
+12. sortedlist
+13. hashtable
+14. collection of objects
+
+
+
+ collection contain group of values of same or different types (primitive values or objects)
+ collections are internally objects of collection class - list,dictionary,sortedlist.....
+
+ syntax
+ ------
+ List<type> refvariable = new List<type>();
+
+ generic collection - store 1 type
+ non - generic collection - store different types
+
+ list - generic collection
+ collection store unlimited elements
+ perform various operations collections

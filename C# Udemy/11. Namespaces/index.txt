@@ -1,0 +1,13 @@
+nested namespaces
+importing namespaces
+alias
+static
+
+
+outernamespace.innernamspace.typename -> nested namespaces
+
+using namespaces -> importing namespaces
+
+using aliasname = namespacename
+
+static namespace use static class

@@ -1,0 +1,8 @@
+
+camelCase - localvariable, parameter
+
+PascalCase - namespace,class,struct,field,method,properties
+
+IPascalCase - interfaces
+
+_camelCase -private fields

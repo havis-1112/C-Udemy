@@ -1,0 +1,7 @@
+abstract class
+abstract methods
+interfaces
+polymorphism
+multiple inheritance with interface
+interface inheritance
+explicit inheritance

@@ -1,0 +1,18 @@
+encapsulation
+local variable and parameter
+this keyword
+static keyword
+object reference as arguments
+default arguments
+named arguments
+method overloading
+parameter modifier
+    
+default
+ref
+out
+in
+params
+local functions
+static local functions
+recursion

@@ -1,0 +1,29 @@
+
+
+.net
+----
+desktop applications
+web applications
+mobile apps
+
+
+language supported
+------------------
+c#, vb.net, vc++ .....
+
+
+asp.net (part of .net)
+-------
+websites (static)
+web applications (dynamic)
+console application
+
+
+c#.net
+------
+windows gui application
+windows services (windows update service, sql server service)
+console applications
+
+
+

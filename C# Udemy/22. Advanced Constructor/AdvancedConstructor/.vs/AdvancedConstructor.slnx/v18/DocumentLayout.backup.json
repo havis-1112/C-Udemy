@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Udemy\\22. Advanced Constructor\\AdvancedConstructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{390DEE8C-11B9-496D-9B38-36C94454EFFB}|AdvancedConstructor\\AdvancedConstructor.csproj|d:\\c# udemy\\22. advanced constructor\\advancedconstructor\\advancedconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390DEE8C-11B9-496D-9B38-36C94454EFFB}|AdvancedConstructor\\AdvancedConstructor.csproj|solutionrelative:advancedconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Udemy\\22. Advanced Constructor\\AdvancedConstructor\\AdvancedConstructor\\Program.cs",
+              "RelativeDocumentMoniker": "AdvancedConstructor\\Program.cs",
+              "ToolTip": "D:\\C# Udemy\\22. Advanced Constructor\\AdvancedConstructor\\AdvancedConstructor\\Program.cs",
+              "RelativeToolTip": "AdvancedConstructor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:19:05.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

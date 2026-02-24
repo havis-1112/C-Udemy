@@ -1,0 +1,6 @@
+
+what is .net?
+cli
+clr
+architecture
+naming conventions

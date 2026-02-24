@@ -1,0 +1,5 @@
+creating structures
+struct vs class
+constructors in struct
+readonly structures
+primitive types as structures

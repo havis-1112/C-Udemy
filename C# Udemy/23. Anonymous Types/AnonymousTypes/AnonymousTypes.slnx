@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AnonymousTypes/AnonymousTypes.csproj" />
+  <Project Path="ClassLibrary1/ClassLibrary1.csproj" />
+</Solution>

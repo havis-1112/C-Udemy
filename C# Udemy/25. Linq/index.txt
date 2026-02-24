@@ -1,0 +1,8 @@
+linq
+orderby
+first or default
+last or default
+elementat or default
+single or default
+select
+min max count sum average

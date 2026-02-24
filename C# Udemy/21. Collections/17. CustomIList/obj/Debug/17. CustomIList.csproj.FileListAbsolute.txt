@@ -1,0 +1,7 @@
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\17. CustomIList\bin\Debug\_17.CustomIList.exe.config
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\17. CustomIList\bin\Debug\_17.CustomIList.exe
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\17. CustomIList\bin\Debug\_17.CustomIList.pdb
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\17. CustomIList\obj\Debug\17. CustomIList.csproj.AssemblyReference.cache
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\17. CustomIList\obj\Debug\17. CustomIList.csproj.CoreCompileInputs.cache
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\17. CustomIList\obj\Debug\_17.CustomIList.exe
+C:\Users\GOD\Desktop\C#-UDEMY\21. Collections\17. CustomIList\obj\Debug\_17.CustomIList.pdb

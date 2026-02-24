@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\C# Udemy\\28. Exception  Handling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32926803-039B-43C0-8BB7-578C37F6B278}|28. Exception  Handling\\28. Exception  Handling.csproj|c:\\c#\\c# udemy\\28. exception  handling\\28. exception  handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32926803-039B-43C0-8BB7-578C37F6B278}|28. Exception  Handling\\28. Exception  Handling.csproj|solutionrelative:28. exception  handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\C# Udemy\\28. Exception  Handling\\28. Exception  Handling\\Program.cs",
+              "RelativeDocumentMoniker": "28. Exception  Handling\\Program.cs",
+              "ToolTip": "C:\\C#\\C# Udemy\\28. Exception  Handling\\28. Exception  Handling\\Program.cs",
+              "RelativeToolTip": "28. Exception  Handling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:05:22.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

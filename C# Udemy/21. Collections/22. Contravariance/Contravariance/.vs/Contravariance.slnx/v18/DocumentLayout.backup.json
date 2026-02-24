@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Udemy\\21. Collections\\22. Contravariance\\Contravariance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02DD5827-817E-4EA2-B716-7D91131FAB55}|Contravariance\\Contravariance.csproj|d:\\c# udemy\\21. collections\\22. contravariance\\contravariance\\contravariance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DD5827-817E-4EA2-B716-7D91131FAB55}|Contravariance\\Contravariance.csproj|solutionrelative:contravariance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Udemy\\21. Collections\\22. Contravariance\\Contravariance\\Contravariance\\Program.cs",
+              "RelativeDocumentMoniker": "Contravariance\\Program.cs",
+              "ToolTip": "D:\\C# Udemy\\21. Collections\\22. Contravariance\\Contravariance\\Contravariance\\Program.cs",
+              "RelativeToolTip": "Contravariance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:48:23.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\C# Udemy\\26. StringDatetimeMath\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA89264F-8629-2368-138C-FCAC9E5F0974}|26. StringDatetimeMath\\26. StringDatetimeMath.csproj|d:\\c#\\c# udemy\\26. stringdatetimemath\\26. stringdatetimemath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA89264F-8629-2368-138C-FCAC9E5F0974}|26. StringDatetimeMath\\26. StringDatetimeMath.csproj|solutionrelative:26. stringdatetimemath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\C# Udemy\\26. StringDatetimeMath\\26. StringDatetimeMath\\Program.cs",
+              "RelativeDocumentMoniker": "26. StringDatetimeMath\\Program.cs",
+              "ToolTip": "D:\\C#\\C# Udemy\\26. StringDatetimeMath\\26. StringDatetimeMath\\Program.cs",
+              "RelativeToolTip": "26. StringDatetimeMath\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T09:48:22.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

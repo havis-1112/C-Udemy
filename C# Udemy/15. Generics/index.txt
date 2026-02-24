@@ -1,0 +1,4 @@
+multiple generic parameters
+generic constants
+generic constraints
+generic methods

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Udemy\\12. Partial Static Enumerations\\PartialStaticEnumerations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0F6BC9-F288-4B6D-BB76-1D60CFF14071}|PartialStaticEnumerations\\PartialStaticEnumerations.csproj|d:\\c# udemy\\12. partial static enumerations\\partialstaticenumerations\\partialstaticenumerations\\file2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0F6BC9-F288-4B6D-BB76-1D60CFF14071}|PartialStaticEnumerations\\PartialStaticEnumerations.csproj|solutionrelative:partialstaticenumerations\\file2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0F6BC9-F288-4B6D-BB76-1D60CFF14071}|PartialStaticEnumerations\\PartialStaticEnumerations.csproj|d:\\c# udemy\\12. partial static enumerations\\partialstaticenumerations\\partialstaticenumerations\\file1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0F6BC9-F288-4B6D-BB76-1D60CFF14071}|PartialStaticEnumerations\\PartialStaticEnumerations.csproj|solutionrelative:partialstaticenumerations\\file1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "File2.cs",
+              "DocumentMoniker": "D:\\C# Udemy\\12. Partial Static Enumerations\\PartialStaticEnumerations\\PartialStaticEnumerations\\File2.cs",
+              "RelativeDocumentMoniker": "PartialStaticEnumerations\\File2.cs",
+              "ToolTip": "D:\\C# Udemy\\12. Partial Static Enumerations\\PartialStaticEnumerations\\PartialStaticEnumerations\\File2.cs",
+              "RelativeToolTip": "PartialStaticEnumerations\\File2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T16:41:22.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "File1.cs",
+              "DocumentMoniker": "D:\\C# Udemy\\12. Partial Static Enumerations\\PartialStaticEnumerations\\PartialStaticEnumerations\\File1.cs",
+              "RelativeDocumentMoniker": "PartialStaticEnumerations\\File1.cs",
+              "ToolTip": "D:\\C# Udemy\\12. Partial Static Enumerations\\PartialStaticEnumerations\\PartialStaticEnumerations\\File1.cs",
+              "RelativeToolTip": "PartialStaticEnumerations\\File1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T16:40:34.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

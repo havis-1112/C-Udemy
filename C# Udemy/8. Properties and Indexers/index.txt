@@ -1,0 +1,4 @@
+creating properties
+writeonly readonly properties
+auto implemented properties
+auto implemented properties initializer

@@ -1,0 +1,16 @@
+
+ildasm - intermediate language disassmbler
+
+class loader - loads all classes from compiled code into memory when needed
+
+memory manager - alloctes memory for obj in heap
+
+garbage collector - free memory by deleting unreferenced objects
+
+jit compiler - MSIL to machine code
+
+exception manager - handle runtime error and create exception logs
+
+thread manager - manages threads,bg processes
+
+security manager - check permission abd ensure application is safe to run

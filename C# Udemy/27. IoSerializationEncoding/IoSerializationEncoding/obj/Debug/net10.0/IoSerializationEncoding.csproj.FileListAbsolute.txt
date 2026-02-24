@@ -1,0 +1,14 @@
+C:\C#\C# Udemy\IoSerializationEncoding\IoSerializationEncoding\bin\Debug\net10.0\IoSerializationEncoding.exe
+C:\C#\C# Udemy\IoSerializationEncoding\IoSerializationEncoding\bin\Debug\net10.0\IoSerializationEncoding.deps.json
+C:\C#\C# Udemy\IoSerializationEncoding\IoSerializationEncoding\bin\Debug\net10.0\IoSerializationEncoding.runtimeconfig.json
+C:\C#\C# Udemy\IoSerializationEncoding\IoSerializationEncoding\bin\Debug\net10.0\IoSerializationEncoding.dll
+C:\C#\C# Udemy\IoSerializationEncoding\IoSerializationEncoding\bin\Debug\net10.0\IoSerializationEncoding.pdb
+C:\C#\C# Udemy\IoSerializationEncoding\IoSerializationEncoding\obj\Debug\net10.0\IoSerializationEncoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C# Udemy\IoSerializationEncoding\IoSerializationEncoding\obj\Debug\net10.0\IoSerializationEncoding.AssemblyInfoInputs.cache
+C:\C#\C# Udemy\IoSerializationEncoding\IoSerializationEncoding\obj\Debug\net10.0\IoSerializationEncoding.AssemblyInfo.cs
+C:\C#\C# Udemy\IoSerializationEncoding\IoSerializationEncoding\obj\Debug\net10.0\IoSerializationEncoding.csproj.CoreCompileInputs.cache
+C:\C#\C# Udemy\IoSerializationEncoding\IoSerializationEncoding\obj\Debug\net10.0\IoSerializationEncoding.dll
+C:\C#\C# Udemy\IoSerializationEncoding\IoSerializationEncoding\obj\Debug\net10.0\refint\IoSerializationEncoding.dll
+C:\C#\C# Udemy\IoSerializationEncoding\IoSerializationEncoding\obj\Debug\net10.0\IoSerializationEncoding.pdb
+C:\C#\C# Udemy\IoSerializationEncoding\IoSerializationEncoding\obj\Debug\net10.0\IoSerializationEncoding.genruntimeconfig.cache
+C:\C#\C# Udemy\IoSerializationEncoding\IoSerializationEncoding\obj\Debug\net10.0\ref\IoSerializationEncoding.dll

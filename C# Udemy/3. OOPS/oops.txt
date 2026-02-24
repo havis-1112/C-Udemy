@@ -1,0 +1,7 @@
+data + operations --> single unit(oops)
+
+objects --> instance of class
+
+class --> blueprint of object
+
+class --> fields(data) + methods(operation) 

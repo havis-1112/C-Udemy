@@ -1,0 +1,14 @@
+D:\C#\C# Udemy\26. StringDatetimeMath\26. StringDatetimeMath\bin\Debug\net10.0\26. StringDatetimeMath.exe
+D:\C#\C# Udemy\26. StringDatetimeMath\26. StringDatetimeMath\bin\Debug\net10.0\26. StringDatetimeMath.deps.json
+D:\C#\C# Udemy\26. StringDatetimeMath\26. StringDatetimeMath\bin\Debug\net10.0\26. StringDatetimeMath.runtimeconfig.json
+D:\C#\C# Udemy\26. StringDatetimeMath\26. StringDatetimeMath\bin\Debug\net10.0\26. StringDatetimeMath.dll
+D:\C#\C# Udemy\26. StringDatetimeMath\26. StringDatetimeMath\bin\Debug\net10.0\26. StringDatetimeMath.pdb
+D:\C#\C# Udemy\26. StringDatetimeMath\26. StringDatetimeMath\obj\Debug\net10.0\26. StringDatetimeMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Udemy\26. StringDatetimeMath\26. StringDatetimeMath\obj\Debug\net10.0\26. StringDatetimeMath.AssemblyInfoInputs.cache
+D:\C#\C# Udemy\26. StringDatetimeMath\26. StringDatetimeMath\obj\Debug\net10.0\26. StringDatetimeMath.AssemblyInfo.cs
+D:\C#\C# Udemy\26. StringDatetimeMath\26. StringDatetimeMath\obj\Debug\net10.0\26. StringDatetimeMath.csproj.CoreCompileInputs.cache
+D:\C#\C# Udemy\26. StringDatetimeMath\26. StringDatetimeMath\obj\Debug\net10.0\26. StringDatetimeMath.dll
+D:\C#\C# Udemy\26. StringDatetimeMath\26. StringDatetimeMath\obj\Debug\net10.0\refint\26. StringDatetimeMath.dll
+D:\C#\C# Udemy\26. StringDatetimeMath\26. StringDatetimeMath\obj\Debug\net10.0\26. StringDatetimeMath.pdb
+D:\C#\C# Udemy\26. StringDatetimeMath\26. StringDatetimeMath\obj\Debug\net10.0\26. StringDatetimeMath.genruntimeconfig.cache
+D:\C#\C# Udemy\26. StringDatetimeMath\26. StringDatetimeMath\obj\Debug\net10.0\ref\26. StringDatetimeMath.dll

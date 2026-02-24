@@ -1,0 +1,3 @@
+anonymous objects
+nested anonymous objects
+anonymous arrays

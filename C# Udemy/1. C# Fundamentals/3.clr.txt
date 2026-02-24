@@ -1,0 +1,10 @@
+
+bcl(base class library) - i/o operations,console class....
+
+ado.net - predefined class for db operations(sqlconnection,sqladapter,sqlcommand)
+
+winforms - classes for creating gui appliactions(form,label,buttons...)
+
+wpf(window presentation foundation) - classes for rich gui applications
+
+cls(common language specifications) - common rules for all .net languages

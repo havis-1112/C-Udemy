@@ -1,0 +1,13 @@
+creating delegates(single cast delegates)
+multicast delegates
+events
+auto implemented events
+anonymous methods
+inline lambda expressions
+func
+action
+predicate
+event handler
+expression trees
+expression bodied members
+switch expression

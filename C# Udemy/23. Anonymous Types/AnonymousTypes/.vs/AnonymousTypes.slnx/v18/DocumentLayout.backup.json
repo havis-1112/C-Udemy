@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Udemy\\23. Anonymous Types\\AnonymousTypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EDE27C-0716-4686-BD91-729066539C57}|AnonymousTypes\\AnonymousTypes.csproj|d:\\c# udemy\\23. anonymous types\\anonymoustypes\\anonymoustypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0EDE27C-0716-4686-BD91-729066539C57}|AnonymousTypes\\AnonymousTypes.csproj|solutionrelative:anonymoustypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3363AD-862A-45A8-B57D-C3EBBD8249BA}|ClassLibrary1\\ClassLibrary1.csproj|d:\\c# udemy\\23. anonymous types\\anonymoustypes\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3363AD-862A-45A8-B57D-C3EBBD8249BA}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EDE27C-0716-4686-BD91-729066539C57}|AnonymousTypes\\AnonymousTypes.csproj|d:\\c# udemy\\23. anonymous types\\anonymoustypes\\anonymoustypes\\anonymoustypes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0EDE27C-0716-4686-BD91-729066539C57}|AnonymousTypes\\AnonymousTypes.csproj|solutionrelative:anonymoustypes\\anonymoustypes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnonymousTypes",
+              "DocumentMoniker": "D:\\C# Udemy\\23. Anonymous Types\\AnonymousTypes\\AnonymousTypes\\AnonymousTypes.csproj",
+              "RelativeDocumentMoniker": "AnonymousTypes\\AnonymousTypes.csproj",
+              "ToolTip": "D:\\C# Udemy\\23. Anonymous Types\\AnonymousTypes\\AnonymousTypes\\AnonymousTypes.csproj",
+              "RelativeToolTip": "AnonymousTypes\\AnonymousTypes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T17:10:59.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\C# Udemy\\23. Anonymous Types\\AnonymousTypes\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "D:\\C# Udemy\\23. Anonymous Types\\AnonymousTypes\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:09:34.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Udemy\\23. Anonymous Types\\AnonymousTypes\\AnonymousTypes\\Program.cs",
+              "RelativeDocumentMoniker": "AnonymousTypes\\Program.cs",
+              "ToolTip": "D:\\C# Udemy\\23. Anonymous Types\\AnonymousTypes\\AnonymousTypes\\Program.cs",
+              "RelativeToolTip": "AnonymousTypes\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:09:15.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

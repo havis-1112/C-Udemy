@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Udemy\\13. Structures\\Structures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF64435-B61C-4617-A3DD-98AAD90094F8}|Structures\\Structures.csproj|d:\\c# udemy\\13. structures\\structures\\structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF64435-B61C-4617-A3DD-98AAD90094F8}|Structures\\Structures.csproj|solutionrelative:structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Udemy\\13. Structures\\Structures\\Structures\\Program.cs",
+              "RelativeDocumentMoniker": "Structures\\Program.cs",
+              "ToolTip": "D:\\C# Udemy\\13. Structures\\Structures\\Structures\\Program.cs",
+              "RelativeToolTip": "Structures\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T16:55:41.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

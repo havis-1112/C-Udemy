@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\C# Udemy\\29. C# 9 and 10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3FE715-C904-1401-8756-577408E0E3FB}|29. C# 9 and 10\\29. C# 9 and 10.csproj|c:\\c#\\c# udemy\\29. c# 9 and 10\\29. c# 9 and 10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3FE715-C904-1401-8756-577408E0E3FB}|29. C# 9 and 10\\29. C# 9 and 10.csproj|solutionrelative:29. c# 9 and 10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\C# Udemy\\29. C# 9 and 10\\29. C# 9 and 10\\Program.cs",
+              "RelativeDocumentMoniker": "29. C# 9 and 10\\Program.cs",
+              "ToolTip": "C:\\C#\\C# Udemy\\29. C# 9 and 10\\29. C# 9 and 10\\Program.cs",
+              "RelativeToolTip": "29. C# 9 and 10\\Program.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAAAAEkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T17:23:50.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+creating arrays
+arrays - for loop
+arrays - foreach loop
+index of
+binary search
+clear
+resize
+sort
+reverse
+multi dimensional arrays
+jagged arrays
+array of objects
+copy to
+clone
+deep copy

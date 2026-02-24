@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Udemy\\17. Extension Methods\\ExtensionMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33DF92E8-5B28-A9C0-F4FF-0000E8530488}|ExtensionMethods\\ExtensionMethods.csproj|d:\\c# udemy\\17. extension methods\\extensionmethods\\extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DF92E8-5B28-A9C0-F4FF-0000E8530488}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DF92E8-5B28-A9C0-F4FF-0000E8530488}|ExtensionMethods\\ExtensionMethods.csproj|d:\\c# udemy\\17. extension methods\\extensionmethods\\extensionmethods\\file1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DF92E8-5B28-A9C0-F4FF-0000E8530488}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\file1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "File1.cs",
+              "DocumentMoniker": "D:\\C# Udemy\\17. Extension Methods\\ExtensionMethods\\ExtensionMethods\\File1.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\File1.cs",
+              "ToolTip": "D:\\C# Udemy\\17. Extension Methods\\ExtensionMethods\\ExtensionMethods\\File1.cs",
+              "RelativeToolTip": "ExtensionMethods\\File1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:50:04.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Udemy\\17. Extension Methods\\ExtensionMethods\\ExtensionMethods\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\Program.cs",
+              "ToolTip": "D:\\C# Udemy\\17. Extension Methods\\ExtensionMethods\\ExtensionMethods\\Program.cs",
+              "RelativeToolTip": "ExtensionMethods\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswCcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:45:18.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
