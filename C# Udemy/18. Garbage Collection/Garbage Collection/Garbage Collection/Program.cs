@@ -27,7 +27,7 @@ namespace GarbageCollection
        managed vs unmanaged resources:
        -------------------------------
        managed - memory managed by clr (strings, arrays, custom objects)
-       unmanaged - memory not managed by clr (file handles, database connections, gdi objects)
+       unmanaged - memory not managed by clr (file handles, database connections, gui objects)
 
        clearing unmanaged resources:
        -----------------------------
